@@ -80,7 +80,7 @@ I'm a **Cloud Engineer** with a strong foundation in **networking fundamentals**
 <div align="center">
   
   <!-- Stats Cards -->
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=emregumusai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=emregumusai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img height="180em" src="https://streak-stats.demolab.com?user=emregumusai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
 </div>
@@ -88,7 +88,7 @@ I'm a **Cloud Engineer** with a strong foundation in **networking fundamentals**
 <div align="center">
   
   <!-- Language Stats -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=emregumusai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emregumusai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   
 </div>
 
