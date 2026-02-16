@@ -44,9 +44,9 @@ I'm a **Cloud Engineer** with a strong foundation in **networking fundamentals**
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud platforms" />
 </p>
 
-**AWS:** VPC, EC2, Route53, CloudFront, Lambda, S3, IAM, CloudFormation, Transit Gateway  
-**Azure:** Virtual Networks, ExpressRoute, Azure Functions, App Services, Azure DevOps  
-**GCP:** Compute Engine, Cloud Functions, VPC, Cloud Load Balancing
+**AWS:** VPC, EC2, Route53, S3, IAM  
+**Azure:** Virtual Networks, ExpressRoute, Azure Functions  
+**GCP:** Compute Engine, VPC
 
 ### 🌐 Networking & Connectivity | Ağ ve Bağlantı
 <p align="left">
@@ -55,29 +55,16 @@ I'm a **Cloud Engineer** with a strong foundation in **networking fundamentals**
   <img src="https://img.shields.io/badge/OSPF-004E89?style=for-the-badge&logo=network&logoColor=white" alt="OSPF" />
   <img src="https://img.shields.io/badge/VPN-0078D4?style=for-the-badge&logo=openvpn&logoColor=white" alt="VPN" />
   <img src="https://img.shields.io/badge/DNS-FF7139?style=for-the-badge&logo=cloudflare&logoColor=white" alt="DNS" />
-  <img src="https://img.shields.io/badge/SD--WAN-00BCB4?style=for-the-badge&logo=cisco&logoColor=white" alt="SD-WAN" />
-  <img src="https://img.shields.io/badge/Firewall-D00000?style=for-the-badge&logo=security&logoColor=white" alt="Firewall" />
 </p>
 
-**Core Skills:** Routing Protocols, Network Security, Load Balancing, Traffic Management, Hybrid Connectivity, Network Troubleshooting
+**Core Skills:** Routing Protocols, Network Security, Load Balancing, Traffic Management, Hybrid Connectivity, VPN Solutions, Network Design & Troubleshooting
 
-### ⚙️ Infrastructure as Code | Altyapı Kodu Olarak
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=terraform,ansible" alt="IaC tools" />
-  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudFormation" />
-</p>
 
 ### 🔧 DevOps & Tools | DevOps ve Araçlar
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,python,bash,jenkins,github" alt="DevOps tools" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,python,bash,github" alt="DevOps tools" />
 </p>
 
-### 📊 Monitoring & Observability | İzleme ve Gözlemlenebilirlik
-<p align="left">
-  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudWatch" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-</p>
 
 ---
 
@@ -86,22 +73,22 @@ I'm a **Cloud Engineer** with a strong foundation in **networking fundamentals**
 <div align="center">
   
   <!-- Trophy Section -->
-  <img src="https://github-profile-trophy.vercel.app/?username=emregumusai&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=emregumusai&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=-1&cache_seconds=7200" alt="GitHub Trophies" />
   
 </div>
 
 <div align="center">
   
   <!-- Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emregumusai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emregumusai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emregumusai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emregumusai&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   
 </div>
 
 <div align="center">
   
   <!-- Language Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emregumusai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emregumusai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" alt="Top Languages" />
   
 </div>
 
@@ -162,12 +149,15 @@ Bulut mimariciliği ve otomasyon alanında lider sertifikalar üzerinde çalış
   <a href="https://linkedin.com/in/emregumusai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:yunusemregumusofc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   
   <br><br>
   
   <p>
-    💼 <b>Open to opportunities</b> in Cloud Engineering, Network Architecture, and DevOps roles<br>
-    💼 <b>İş fırsatlarına açığım</b> - Cloud Engineer, Network Architect ve DevOps pozisyonları
+    💼 <b>Open to opportunities</b> in Cloud Engineering, Network Engineering, and DevOps roles<br>
+    💼 <b>İş fırsatlarına açığım</b> - Cloud Engineer, Network Engineer ve DevOps pozisyonları
   </p>
   
   <p>
