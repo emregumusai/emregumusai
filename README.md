@@ -87,13 +87,6 @@ I'm a **Cloud Engineer** with a strong foundation in **networking fundamentals**
 
 <div align="center">
   
-  <!-- Language Stats -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emregumusai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  
-</div>
-
-<div align="center">
-  
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=emregumusai&custom_title=Contribution%20Activity%20Graph&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
   
