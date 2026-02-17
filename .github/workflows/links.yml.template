@@ -1,0 +1,40 @@
+# Link Validation Workflow
+# Automatically checks for broken links in markdown files
+
+name: Check Markdown Links
+
+on:
+  schedule:
+    # Runs weekly on Sundays at midnight
+    - cron: '0 0 * * 0'
+  workflow_dispatch:  # Allows manual trigger
+  pull_request:
+    paths:
+      - '**.md'
+
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Check markdown links
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          config-file: '.github/markdown-link-check-config.json'
+          use-quiet-mode: 'yes'
+          
+      - name: Create issue on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: '🔗 Broken links detected in README',
+              body: 'The automated link checker found broken links. Please review the workflow logs and fix the issues.',
+              labels: ['documentation', 'bug']
+            })

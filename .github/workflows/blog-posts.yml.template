@@ -1,0 +1,49 @@
+# Blog Post Automation Workflow
+# This workflow automatically updates your README with latest blog posts
+# Uncomment and configure when you start publishing blog posts
+
+name: Update Blog Posts
+
+on:
+  schedule:
+    # Runs daily at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-blog-posts:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Update blog post list
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Replace with your blog feed URLs
+          feed_list: |
+            https://medium.com/feed/@yourusername
+            https://dev.to/feed/yourusername
+          
+          # Configuration
+          max_post_count: 5
+          template: '- [$title]($url) - $date'
+          commit_message: 'docs: update latest blog posts'
+          committer_username: 'github-actions[bot]'
+          committer_email: 'github-actions[bot]@users.noreply.github.com'
+          
+          # Markers in README.md where posts will be inserted
+          readme_path: './README.md'
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+
+# To activate this workflow:
+# 1. Uncomment the entire file
+# 2. Replace feed URLs with your actual blog feeds
+# 3. Add markers in README.md:
+#    <!-- BLOG-POST-LIST:START -->
+#    <!-- BLOG-POST-LIST:END -->
+# 4. Commit and push changes
