@@ -122,7 +122,28 @@ I'm a **Cloud Engineer** with a strong foundation in **networking fundamentals**
 <img src="https://img.shields.io/badge/Huawei-HCIA-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="HCIA" />
 <img src="https://img.shields.io/badge/Huawei-HCCDA_Cloud_Native-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="HCCDA Cloud Native" />
 
+**Expected Completion:** Q1 2027
+
 </div>
+
+<details>
+<summary>📋 <b>Certification Goals | Sertifika Hedefleri</b></summary>
+
+<br>
+
+I am actively working towards industry-leading certifications in networking, cloud computing, and Linux systems. These certifications will validate my expertise in cloud infrastructure and network engineering.
+
+**Certifications:**
+- **CompTIA Network+** - Advanced networking fundamentals
+- **CompTIA Linux+** - Linux system administration
+- **CompTIA Cloud+** - Cloud infrastructure management
+- **AWS Cloud Practitioner** - AWS cloud platform fundamentals
+- **HCIA (Huawei Certified ICT Associate)** - Huawei networking technologies
+- **HCCDA Cloud Native** - Huawei cloud-native solutions
+
+**Hedef Tamamlanma:** 2027 1. Çeyrek
+
+</details>
 
 <details>
 <summary>🇹🇷 <b>Öğrenme Hedefleri</b></summary>
@@ -138,6 +159,8 @@ Ağ, bulut ve Linux sistemleri alanında endüstri lideri sertifikalar üzerinde
 - **AWS Cloud Practitioner** - AWS bulut platformu temelleri
 - **HCIA (Huawei Certified ICT Associate)** - Huawei ağ teknolojileri
 - **HCCDA Cloud Native** - Huawei bulut-native çözümleri
+
+**Hedef Tamamlanma:** 2027 1. Çeyrek
 
 </details>
 
