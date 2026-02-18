@@ -110,26 +110,34 @@ I'm a **Cloud Engineer** with a strong foundation in **networking fundamentals**
 
 ## 🎓 Certifications & Learning Path | Sertifikalar ve Öğrenme Yolculuğu
 
-<!-- Add your certification badges from Credly here as you earn them -->
-<!-- Example format:
 <div align="center">
-  <img src="YOUR_CREDLY_BADGE_URL" alt="AWS Certification" width="120" />
-  <img src="YOUR_CREDLY_BADGE_URL" alt="Azure Certification" width="120" />
+
+### 🎯 In Progress | Devam Ediyor
+
+<img src="https://img.shields.io/badge/CompTIA-Network%2B-E63946?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Network+" />
+<img src="https://img.shields.io/badge/CompTIA-Linux%2B-E63946?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Linux+" />
+<img src="https://img.shields.io/badge/CompTIA-Cloud%2B-E63946?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Cloud+" />
+
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" />
+<img src="https://img.shields.io/badge/Huawei-HCIA-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="HCIA" />
+<img src="https://img.shields.io/badge/Huawei-HCCDA_Cloud_Native-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="HCCDA Cloud Native" />
+
 </div>
--->
-
-### 📖 Currently Pursuing | Şu Anda Çalışılan Sertifikalar
-
-- 🎯 **AWS Certified Solutions Architect - Associate**
-- 🎯 **HashiCorp Certified: Terraform Associate**
-- 🎯 **Kubernetes certifications (CKA/CKAD)**
 
 <details>
 <summary>🇹🇷 <b>Öğrenme Hedefleri</b></summary>
 
 <br>
 
-Bulut mimariciliği ve otomasyon alanında lider sertifikalar üzerinde çalışıyorum. AWS, Terraform ve Kubernetes sertifikaları ile bulut altyapı uzmanlığımı kanıtlamayı ve endüstri standartlarını takip etmeyi hedefliyorum.
+Ağ, bulut ve Linux sistemleri alanında endüstri lideri sertifikalar üzerinde çalışıyorum. CompTIA, AWS ve Huawei sertifikaları ile networking ve cloud infrastructure uzmanlığımı kanıtlamayı hedefliyorum.
+
+**Sertifikalar:**
+- **CompTIA Network+** - Ağ temellerinde uzmanlaşma
+- **CompTIA Linux+** - Linux sistem yönetimi
+- **CompTIA Cloud+** - Bulut altyapı yönetimi
+- **AWS Cloud Practitioner** - AWS bulut platformu temelleri
+- **HCIA (Huawei Certified ICT Associate)** - Huawei ağ teknolojileri
+- **HCCDA Cloud Native** - Huawei bulut-native çözümleri
 
 </details>
 
