@@ -17,18 +17,14 @@
 
 ## 👨‍💻 About Me | Hakkımda
 
-I'm a **Cloud Engineer** with a strong foundation in **networking fundamentals**, bridging traditional network engineering with modern cloud-native technologies. With hands-on experience in designing and deploying scalable multi-cloud architectures, I specialize in building resilient infrastructure with a focus on connectivity, security, and performance optimization. My unique background enables me to architect robust hybrid cloud environments that leverage the best of AWS, Azure, and GCP.
-
-**Key Expertise:** Multi-cloud networking • Infrastructure as Code • Network automation • Security-first architecture design
+I'm a **Cloud Engineer** with a strong foundation in **networking fundamentals**, currently advancing my expertise in multi-cloud architectures and infrastructure automation. I specialize in designing resilient, scalable cloud solutions with a focus on connectivity, security, and performance optimization. My journey bridges traditional network engineering with cloud-native technologies, enabling me to architect robust hybrid and multi-cloud environments.
 
 <details>
 <summary>🇹🇷 <b>Türkçe / Turkish</b></summary>
 
 <br>
 
-**Networking temellerine** dayanan sağlam bir bilgi birikimiyle **Cloud Engineer** olarak çalışıyorum. Geleneksel ağ mühendisliğinden modern bulut-native teknolojilere geçiş yaparak, ölçeklenebilir çoklu bulut mimarileri tasarlama ve dağıtma konusunda pratik deneyim kazandım. Bağlantı, güvenlik ve performans optimizasyonuna odaklanarak esnek altyapılar oluşturma konusunda uzmanlaşıyorum. Benzersiz geçmişim, AWS, Azure ve GCP'nin en iyilerinden yararlanan güçlü hibrit bulut ortamları tasarlamama olanak tanıyor.
-
-**Ana Uzmanlık Alanları:** Çoklu bulut ağları • Infrastructure as Code • Ağ otomasyonu • Güvenlik odaklı mimari tasarım
+**Networking temellerine** dayanan sağlam bir bilgi birikimiyle **Cloud Engineer** olarak çalışıyorum. Şu anda çoklu bulut mimarileri ve altyapı otomasyonu konusunda uzmanlığımı geliştiriyorum. Bağlantı, güvenlik ve performans optimizasyonuna odaklanarak esnek ve ölçeklenebilir bulut çözümleri tasarlama konusunda uzmanlaşıyorum. Geleneksel ağ mühendisliğinden bulut-native teknolojilere uzanan yolculuğum, güçlü hibrit ve çoklu bulut ortamları tasarlamama olanak tanıyor.
 
 </details>
 
@@ -41,64 +37,7 @@ I'm a **Cloud Engineer** with a strong foundation in **networking fundamentals**
 
 ---
 
-## � Featured Projects | Öne Çıkan Projeler
-
-<div align="left">
-
-### 🌐 AWS Multi-Region VPC Architecture
-> Production-ready Terraform modules for scalable, highly available VPC deployment
-
-**Tech Stack:** Terraform, AWS VPC, Route53, Transit Gateway  
-**Highlights:**
-- Multi-region deployment with automated failover
-- Reusable Terraform modules with comprehensive documentation
-- Security groups and NACLs following AWS best practices
-- Cost-optimized NAT Gateway configuration
-
-📌 *Building in progress - launching Q1 2026*
-
----
-
-### 🔒 Cloud Security Automation Toolkit
-> Python-based security compliance scanner for AWS and Azure environments
-
-**Tech Stack:** Python, Boto3, Azure SDK, GitHub Actions  
-**Highlights:**
-- Automated security posture assessment
-- Compliance checking against CIS benchmarks
-- Slack/email notifications for critical findings
-- CI/CD integration for continuous monitoring
-
-📌 *In active development*
-
----
-
-### 📊 Network Performance Monitor
-> Real-time network monitoring dashboard for hybrid cloud environments
-
-**Tech Stack:** Grafana, Prometheus, Python, AWS CloudWatch  
-**Highlights:**
-- Visual dashboards for network latency and throughput
-- Custom alerting for anomaly detection
-- Multi-cloud metrics aggregation
-- Automated report generation
-
-📌 *Planning phase*
-
-</div>
-
-<details>
-<summary>🇹🇷 <b>Proje Açıklamaları</b></summary>
-
-<br>
-
-**Not:** Bu projeler aktif geliştirme aşamasında ve yakında GitHub profilimde yayınlanacaktır. Her proje, gerçek dünya cloud engineering senaryolarını çözmek ve profesyonel portföyümü güçlendirmek için tasarlanmıştır.
-
-</details>
-
----
-
-## �🛠️ Core Competencies | Temel Yetkinlikler
+## 🛠️ Core Competencies | Temel Yetkinlikler
 
 ### ☁️ Cloud Platforms | Bulut Platformları
 <p align="left">
@@ -123,86 +62,9 @@ I'm a **Cloud Engineer** with a strong foundation in **networking fundamentals**
 
 ### 🔧 DevOps & Tools | DevOps ve Araçlar
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,git,linux,python,bash,github" alt="DevOps tools" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,python,bash,github" alt="DevOps tools" />
 </p>
 
-**Infrastructure as Code:** Terraform, CloudFormation  
-**Containerization:** Docker, Kubernetes  
-**CI/CD:** GitHub Actions, Jenkins  
-**Scripting:** Python, Bash
-
----
-
-## 🎯 Skills Proficiency Matrix | Yetenek Yeterlilik Matrisi
-
-<details open>
-<summary><b>📊 View Detailed Proficiency Levels | Detaylı Yeterlilik Seviyelerini Görüntüle</b></summary>
-
-<br>
-
-### ⭐⭐⭐ Advanced | İleri Seviye
-
-**Networking Fundamentals**
-- TCP/IP, Subnetting, CIDR
-- Routing Protocols (BGP, OSPF)
-- VPN Technologies (Site-to-Site, Client VPN)
-- Network Security & Firewalls
-- Load Balancing & Traffic Management
-
-**Cloud Networking**
-- AWS VPC Design & Implementation
-- Security Groups & Network ACLs
-- Route Tables & Internet/NAT Gateways
-- VPC Peering & Transit Gateway
-
-### ⭐⭐ Intermediate | Orta Seviye
-
-**Cloud Platforms**
-- AWS (EC2, S3, Route53, IAM, CloudFormation)
-- Azure (Virtual Networks, VPN Gateway)
-- Multi-cloud Architecture Design
-
-**Infrastructure as Code**
-- Terraform (modules, state management)
-- AWS CloudFormation
-- Git/GitHub for IaC version control
-
-**Containerization & Orchestration**
-- Docker (images, containers, networks)
-- Docker Compose
-- Basic Kubernetes concepts
-
-### ⭐ Learning & Developing | Öğrenme Aşamasında
-
-**Advanced Kubernetes**
-- EKS/AKS cluster management
-- Service mesh (Istio, Linkerd)
-- Advanced networking (CNI plugins)
-
-**Advanced Cloud Security**
-- Zero-trust architecture implementation
-- Cloud security compliance (CIS, SOC2)
-- Security automation & SIEM integration
-
-**Monitoring & Observability**
-- Prometheus & Grafana
-- ELK Stack
-- Distributed tracing
-
-</details>
-
-<details>
-<summary>🇹🇷 <b>Türkçe Yeterlilik Açıklaması</b></summary>
-
-<br>
-
-**İleri Seviye (⭐⭐⭐):** Bu alanlarda derin bilgi ve uzmanlığa sahibim. Karmaşık sorunları çözebilir ve en iyi uygulamaları uygulayabilirim.
-
-**Orta Seviye (⭐⭐):** Pratik deneyime sahibim ve bağımsız olarak çalışabilirim. Sürekli gelişme ve öğrenme halindeyim.
-
-**Öğrenme Aşamasında (⭐):** Aktif olarak öğreniyor ve projeler üzerinde pratik yapıyorum. Temel kavramları anlıyor ve basit uygulamalar geliştirebiliyorum.
-
-</details>
 
 ---
 
@@ -220,6 +82,13 @@ I'm a **Cloud Engineer** with a strong foundation in **networking fundamentals**
   <!-- Stats Cards -->
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=emregumusai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img height="180em" src="https://streak-stats.demolab.com?user=emregumusai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Language Stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emregumusai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   
 </div>
 
@@ -248,28 +117,19 @@ I'm a **Cloud Engineer** with a strong foundation in **networking fundamentals**
 
 ## 🎓 Certifications & Learning Path | Sertifikalar ve Öğrenme Yolculuğu
 
+<!-- Add your certification badges from Credly here as you earn them -->
+<!-- Example format:
 <div align="center">
-
-### 🎯 In Progress | Devam Ediyor
-
-<img src="https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA" />
-<img src="https://img.shields.io/badge/HashiCorp_Terraform-Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/Kubernetes-CKA%2FCKAD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-
-**Expected Completion:** Q2 2026
-
+  <img src="YOUR_CREDLY_BADGE_URL" alt="AWS Certification" width="120" />
+  <img src="YOUR_CREDLY_BADGE_URL" alt="Azure Certification" width="120" />
 </div>
+-->
 
-<details>
-<summary>🇹🇷 <b>Sertifika Hedefleri</b></summary>
+### 📖 Currently Pursuing | Şu Anda Çalışılan Sertifikalar
 
-<br>
-
-Bulut mimariciliği ve otomasyon alanında lider sertifikalar üzerinde çalışıyorum. AWS Solutions Architect, Terraform ve Kubernetes sertifikaları ile bulut altyapı uzmanlığımı kanıtlamayı ve endüstri standartlarını takip etmeyi hedefliyorum.
-
-**Hedef Tamamlanma:** 2026 2. Çeyrek
-
-</details>
+- 🎯 **AWS Certified Solutions Architect - Associate**
+- 🎯 **HashiCorp Certified: Terraform Associate**
+- 🎯 **Kubernetes certifications (CKA/CKAD)**
 
 <details>
 <summary>🇹🇷 <b>Öğrenme Hedefleri</b></summary>
@@ -311,14 +171,16 @@ Bulut mimariciliği ve otomasyon alanında lider sertifikalar üzerinde çalış
 
 <div align="center">
   
-  <i>⭐️ From [emregumusai](https://github.com/emregumusai)</i>
+  ### 💭 Quote of the Day | Günün Sözü
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
   
   <br><br>
   
-  **Thanks for visiting my profile! Let's build something amazing together! 🚀**
+  <i>⭐️ From [emregumusai](https://github.com/emregumusai)</i>
   
   <br>
   
-  <sub>Last updated: February 2026 | Profile views tracked since January 2026</sub>
+  **Thanks for visiting my profile! Let's build something amazing together! 🚀**
   
 </div>
