@@ -30,10 +30,10 @@ I'm a **Cloud Engineer** with a strong foundation in **networking fundamentals**
 
 ### 🎯 Current Focus
 
-- 🔧 Architecting **multi-cloud networking** solutions (AWS, Azure, GCP)
-- 📚 Deep-diving into **Infrastructure as Code** best practices with Terraform
-- 🚀 Exploring **cloud-native security** patterns and zero-trust architectures
-- 💡 Building automated CI/CD pipelines for cloud infrastructure deployment
+- Architecting **multi-cloud networking** solutions (AWS, Azure, GCP)
+- Deep-diving into **Infrastructure as Code** best practices with Terraform
+- Exploring **cloud-native security** patterns and zero-trust architectures
+- Building automated CI/CD pipelines for cloud infrastructure deployment
 
 ---
 
@@ -127,7 +127,7 @@ I'm a **Cloud Engineer** with a strong foundation in **networking fundamentals**
 </div>
 
 <details>
-<summary>📋 <b>Certification Goals | Sertifika Hedefleri</b></summary>
+<summary>🇬🇧 <b>Certification Goals</b></summary>
 
 <br>
 
@@ -141,7 +141,7 @@ I am actively working towards industry-leading certifications in networking, clo
 - **HCIA (Huawei Certified ICT Associate)** - Huawei networking technologies
 - **HCCDA Cloud Native** - Huawei cloud-native solutions
 
-**Hedef Tamamlanma:** 2027 1. Çeyrek
+**Expected Completion:** Q1 2027
 
 </details>
 
